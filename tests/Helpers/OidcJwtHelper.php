@@ -89,7 +89,7 @@ class OidcJwtHelper
         return [
             'kty' => 'RSA',
             'alg' => 'RS256',
-            'kid' => '066e52af-8884-4926-801d-032a276f9f2a',
+            'kid' => '066e52af-8884-4926-801d-032a276f9f2a', #gitleaks:allow
             'use' => 'sig',
             'e'   => 'AQAB',
             'n'   => 'qo1OmfNKec5S2zQC4SP9DrHuUR0VgCi6oqcGERz7zqO36hqk3A3R3aCgJkEjfnbnMuszRRKs45NbXoOp9pvmzXL16c93Obn7G8x8A3ao6yN5qKO5S5-CETqOZfKN_g75Xlz7VsC3igOhgsXnPx6iiM6sbYbk0U_XpFaT84LXKI8VTIPUo7gTeZN1pTET__i9FlzAOzX-xfWBKdOqlEzl-zihMHCZUUvQu99P-o0MDR0lMUT-vPJ6SJeRfnoHexwt6bZFiNnsZIEL03bX4QNkWvsLta1-jNUee-8IPVhzCO8bvM86NzLaKUJ4k6NZ5IVrmdCFpFsjCWByOrDG8wdw3w',

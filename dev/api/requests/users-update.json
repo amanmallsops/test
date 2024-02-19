@@ -3,5 +3,5 @@
   "email": "dspaggles@example.com",
   "roles": [2],
   "language": "de",
-  "password": ""
+  "password": "hunter2000" #gitleaks:allow
 }
